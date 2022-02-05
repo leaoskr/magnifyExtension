@@ -1,3 +1,3 @@
-# magnifyExtension
+ # magnifyExtension
 
-##Features in Planning
+## Features in Planning
